@@ -1,2 +1,2 @@
 # learn-devops
-# Let us learn devops 
+# Let us learn Devops
